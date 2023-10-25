@@ -1,3 +1,3 @@
-![](/images/Header.png)
+![Simple Header Image](/images/Header.png)
 
-- Simple Header Design
+- Simple responsive Header Design
